@@ -1,3 +1,8 @@
-# Analysis of Oil Markets af Midnight Hammer
-Using prediction markets we quantify the markets' reaction to news regarding the strait of Hormuz.
-Check out the notebook for the analysis
+# Side Projcets abouts Quantitative Finance
+A collection of articles, rapports and models.
+## Midnight Hammer
+Analysis of the oil markets' reaction about the strait of Hormuz following operation Midnight Hammer using prediction markets
+## Prediction Markets
+Trading strategies within prediction markets using traditional markets for signal generation
+## Callable Bonds Pricing
+Pricing model of Danish callable bonds with monte-carlo methods
